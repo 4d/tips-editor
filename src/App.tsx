@@ -10,7 +10,7 @@ const App: FC = () => {
     <StoreProvider>
       <a
         className="github-fork-ribbon"
-        href="https://github.com/midrissi/tips-editor"
+        href="https://github.com/4d/tips-editor"
         data-ribbon="Fork me on GitHub"
         title="Fork me on GitHub"
         target="_blank"
