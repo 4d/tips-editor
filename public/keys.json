@@ -1,5 +1,65 @@
 [
   {
+    "label": "Explorer",
+    "value": "editors:webform:explorer",
+    "group": "[Explorer] Main"
+  },
+  {
+    "label": "Webforms Folder",
+    "value": "editors:webform:explorer:webforms:folder",
+    "group": "[Explorer] Main"
+  },
+  {
+    "label": "Methods Folder",
+    "value": "editors:webform:explorer:methods:folder",
+    "group": "[Explorer] Main"
+  },
+  {
+    "label": "Classes Folder",
+    "value": "editors:webform:explorer:classes:folder",
+    "group": "[Explorer] Main"
+  },
+  {
+    "label": "Assets Folder",
+    "value": "editors:webform:explorer:assets:folder",
+    "group": "[Explorer] Main"
+  },
+  {
+    "label": "Debugger Folder",
+    "value": "editors:webform:explorer:debugger:folder",
+    "group": "[Explorer] Main"
+  },
+  {
+    "label": "Webforms Folder",
+    "value": "editors:webform:explorer:webforms:folder",
+    "group": "[Explorer] Main"
+  },
+  {
+    "label": "Breadcrumb",
+    "value": "editors:webform:breadcrumbs",
+    "group": "[Webform] Toolbar"
+  },
+  {
+    "label": "Canvas",
+    "value": "editors:webform:canvas",
+    "group": "[Webform] Canvas"
+  },
+  {
+    "label": "Datatable Setup",
+    "value": "editors:webform:datatablesetup",
+    "group": "[Webform] Canvas"
+  },
+  {
+    "label": "Canvas",
+    "value": "editors:webform:contextualconfiguration",
+    "group": "[Webform] Contexual Configuration"
+  },
+  {
+    "label": "Toggle event param",
+    "value": "editors:webform:contextualconfiguration:event:parameter:toggle",
+    "group": "[Webform] Contexual Configuration"
+  },
+  {
     "label": "Main",
     "value": "editors:webform:properties",
     "group": "[Webform] Properties panel"
@@ -7,6 +67,11 @@
   {
     "label": "Data Access",
     "value": "editors:webform:properties:dataaccess",
+    "group": "[Webform] Properties panel"
+  },
+  {
+    "label": "Server Side Ref",
+    "value": "editors:webform:properties:serverside",
     "group": "[Webform] Properties panel"
   },
   {
@@ -27,6 +92,11 @@
   {
     "label": "Dimensions",
     "value": "editors:webform:properties:style:dimensions",
+    "group": "[Webform] Properties panel"
+  },
+  {
+    "label": "Box Shadow",
+    "value": "editors:webform:properties:style:boxshadow",
     "group": "[Webform] Properties panel"
   },
   {
@@ -57,6 +127,26 @@
   {
     "label": "Data Sources",
     "value": "editors:webform:toolbox:datasources",
+    "group": "[Webform] Toolbox"
+  },
+  {
+    "label": "Catalog",
+    "value": "editors:webform:toolbox:datasources:catalog",
+    "group": "[Webform] Toolbox"
+  },
+  {
+    "label": "Remote Data Sources",
+    "value": "editors:webform:toolbox:datasources:remote",
+    "group": "[Webform] Toolbox"
+  },
+  {
+    "label": "Local Data Sources",
+    "value": "editors:webform:toolbox:datasources:local",
+    "group": "[Webform] Toolbox"
+  },
+  {
+    "label": "Shared Data Sources",
+    "value": "editors:webform:toolbox:datasources:shared",
     "group": "[Webform] Toolbox"
   },
   {
